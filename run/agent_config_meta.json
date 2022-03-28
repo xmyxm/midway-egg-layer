@@ -1,0 +1,301 @@
+{
+  "keys": "/Users/chenxuanfeng/mydata/midway-egg-layer/config/config.default.js",
+  "middleware": "/Users/chenxuanfeng/mydata/midway-egg-layer/config/config.default.js",
+  "session": {
+    "maxAge": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-session/config/config.default.js",
+    "logValue": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-security/config/config.default.js",
+      "ipExceptionList": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-multipart/config/config.default.js",
+    "allowArrayField": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-multipart/config/config.default.js",
+      "disable": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-static/config/config.default.js"
+  },
+  "view": {
+    "root": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-view/config/config.default.js",
+    "mapping": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg-view/config/config.default.js"
+  },
+  "env": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+  "name": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+    "version": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+    "description": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+    "private": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+    "egg": {
+      "declarations": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js"
+    },
+    "dependencies": {
+      "egg": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "@midwayjs/cli": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+      "autod": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js"
+    },
+    "engines": {
+      "node": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+      "stop": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+      "dev": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+      "debug": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+      "test": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+      "cov": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+      "lint": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+      "ci": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+      "autod": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+      "deploy": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js"
+    },
+    "ci": {
+      "version": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js"
+    },
+    "repository": {
+      "type": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+      "url": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+    "license": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+    "strict": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+      "depth": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+    "env": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+    "level": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+    "enablePerformanceTimer": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+    "logging": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+      "port": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/chenxuanfeng/mydata/midway-egg-layer/node_modules/egg/config/config.default.js"
+}
